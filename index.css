@@ -1,0 +1,31 @@
+body{
+  background-image : url("https://www.hdwallpapers.in/thumbs/2021/dark_green_glare_wavy_lines_black_background_hd_dark_green-t2.jpg" );
+  background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#one{
+    color:rgb(238, 20, 180) ;
+    
+}
+#two{
+color:aqua;
+}
+#three{
+color: aquamarine;
+}
+p{
+    color: rgb(73, 196, 51);
+    text-align: center;
+    text-decoration-color: chartreuse;
+}
+#two{
+    text-align: left;
+    box-sizing: 50%;
+}
+#stydy{
+    text-align: center;
+    box-sizing: 50%;
+}
